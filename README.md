@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lominoss-git!
+- 👀 I’m interested in Software Engineering and Game Development.
+- 🌱 I’m currently learning the Godot Game Engine.
+- 📫 Contact me: eloualjiassaad1@gmail.com
